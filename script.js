@@ -27,3 +27,5 @@ const summaryWorkshop = document.getElementById("summaryWorkshop");
 const summaryFee = document.getElementById("summaryFee");
 const summaryDiscount = document.getElementById("summaryDiscount");
 const summaryFinalFee = document.getElementById("summaryFinalFee");
+
+
